@@ -1,6 +1,6 @@
 import React from 'react'
 
-const index = () => {
+const CarsList = () => {
     return (
         <h1>
             List of Cars
@@ -8,4 +8,4 @@ const index = () => {
     )
 }
 
-export default index
+export default CarsList
